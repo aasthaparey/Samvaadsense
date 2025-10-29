@@ -59,6 +59,7 @@ by turning everyday chat data into an **emotional lens**, helping parents stay i
 
 
 ---
+<img width="1920" height="972" alt="nlp_samvaad1" src="https://github.com/user-attachments/assets/f6b8e0b4-6df3-4811-8d10-a80a432aa3d9" />
 
 ### ✳️ **Core Features of SamvaadSense v1.0**
 
@@ -67,7 +68,9 @@ Get an instant overview of your child’s communication pattern:
 - Total messages sent  
 - Total words written  
 - Total media shared  
-- Total links shared  
+- Total links shared
+  <img width="1372" height="477" alt="image" src="https://github.com/user-attachments/assets/4409d7fc-61f2-4137-b2b3-682127e68520" />
+
 
 ---
 
@@ -76,12 +79,17 @@ See how your child’s activity fluctuates throughout the month or day —
 whether chats are increasing, decreasing, or concentrated during certain hours.  
 
 Helps identify if your child is chatting **more during late nights** or **less during stressful periods.**
+<img width="661" height="646" alt="samvaad_ss2" src="https://github.com/user-attachments/assets/3a04e679-5dfc-4834-92e1-b4163da3bde6" />
 
 ---
 
 #### 🗓 **3. Activity Map & Heatmap**
 Displays active days and months via bar graphs and a **weekly heatmap (day vs. hour).**  
 You can easily spot **when your child is most active online** — weekday coordination or weekend socialization.
+<img width="1133" height="936" alt="samvaad_3" src="https://github.com/user-attachments/assets/cc7568e2-b003-4ece-9e50-2f21838068e6" />
+<img width="1522" height="767" alt="samvaad4" src="https://github.com/user-attachments/assets/e8e3dc4c-c934-4be7-abd1-9d697e226414" />
+<img width="1532" height="858" alt="samvaad_5" src="https://github.com/user-attachments/assets/56cea65e-28b0-46e0-8b37-48d7ac5c1898" />
+
 
 ---
 
@@ -89,12 +97,15 @@ You can easily spot **when your child is most active online** — weekday coordi
 Visually see the **most frequently used words** — helping you gauge the **mood, tone, and context** of conversations.  
 Words like *“sorry”*, *“alone”*, *“stressed”* or *“party”*, *“fun”*, *“happy”* can reveal a lot about emotional shifts.
 
+<img width="938" height="835" alt="Screenshot 2025-10-30 003124" src="https://github.com/user-attachments/assets/00bd7c6b-feea-4b08-a208-2e59923a76d7" />
+
 ---
 
 #### 😂 **5. Emoji Analysis**
 Emojis are modern-day emotions.  
 This feature identifies the most used emojis and their frequencies —  
 showing whether the tone is **lighthearted 😂**, **angry 😡**, or **sad 💔**.
+<img width="1397" height="787" alt="samvaad_8" src="https://github.com/user-attachments/assets/f1d041f0-b4b3-415e-9feb-07f781ee5d77" />
 
 ---
 
@@ -105,6 +116,7 @@ showing whether the tone is **lighthearted 😂**, **angry 😡**, or **sad 💔
 Fridays and Saturdays are the most active days, reflecting a friendly weekend mood.”  
 
 This makes analytics **intuitive, readable, and emotionally connected.**
+<img width="1110" height="507" alt="samvaad_9" src="https://github.com/user-attachments/assets/67885724-9bdd-4b88-906b-aab75d420a9e" />
 
 ---
 

@@ -2,15 +2,6 @@
 ### *Beyond Words. Beneath Emojis. Understanding Your Child’s Digital Story.*
 
 ---
-
-## ⚠️ **Important Note Before Moving Ahead**
-This documentation has been crafted with **human effort — not AI-generated.**  
-Every word reflects real thought, testing, and love for clean code ❤️  
-
-🎥 *A complete video walkthrough of the project will be added soon for easy understanding.*
-
----
-
 ## 🤔 **Overview**
 
 **SamvaadSense** is a **digital parenting and behavioral insight tool** —  
@@ -66,11 +57,6 @@ by turning everyday chat data into an **emotional lens**, helping parents stay i
 
 > 💬 *Because every message is more than text — it’s a story waiting to be understood.*
 
----
-
-## ✅ **Features & Functionalities**
-
-🎥 *A complete walkthrough video will be released soon!*
 
 ---
 
@@ -100,4 +86,55 @@ You can easily spot **when your child is most active online** — weekday coordi
 ---
 
 #### 💬 **4. Word Cloud & Common Words**
-Visually see the **most frequently used words** — helping you gau
+Visually see the **most frequently used words** — helping you gauge the **mood, tone, and context** of conversations.  
+Words like *“sorry”*, *“alone”*, *“stressed”* or *“party”*, *“fun”*, *“happy”* can reveal a lot about emotional shifts.
+
+---
+
+#### 😂 **5. Emoji Analysis**
+Emojis are modern-day emotions.  
+This feature identifies the most used emojis and their frequencies —  
+showing whether the tone is **lighthearted 😂**, **angry 😡**, or **sad 💔**.
+
+---
+
+#### 🧠 **6. Contextual Summary Generator (Exclusive Feature)**
+**SamvaadSense** intelligently creates a **human-like summary** of communication behavior:  
+
+> “The chat shows high activity during evenings 🌙, suggesting your child is most social after school hours.  
+Fridays and Saturdays are the most active days, reflecting a friendly weekend mood.”  
+
+This makes analytics **intuitive, readable, and emotionally connected.**
+
+---
+
+## 👨‍💻 **Tech Stack**
+
+| Technology | Purpose |
+|-------------|----------|
+| **Streamlit** | Interactive and minimal web UI |
+| **Matplotlib / Seaborn** | Visual analytics |
+| **Pandas** | Data manipulation & filtering |
+| **WordCloud** | Text visualization |
+| **URLExtract** | Extracting shared links |
+| **Emoji** | Interpreting emotional tone |
+| **Python** | Core backend logic & NLP preprocessing |
+
+---
+
+## 📝 **Usage Guidelines**
+
+📱 **Step 1:** Export your WhatsApp chat (without media)  
+- Open WhatsApp → Chat Settings → Export Chat → *Without Media*  
+- Save the `.txt` file  
+
+🧾 **Step 2:** Upload the exported chat file to SamvaadSense  
+
+🧮 **Step 3:** Select whether you want to analyze a specific user or the entire group  
+
+You’ll instantly see:  
+✅ Message statistics  
+✅ Activity charts  
+✅ WordClouds & emoji patterns  
+✅ Behavioral summary  
+
